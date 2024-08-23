@@ -26,7 +26,7 @@ Polytrack uses a YOLOv8 object detection model to accurately detect insects and 
 - [How to Train YOLOv8 Object Detection on a Custom Dataset](https://blog.roboflow.com/how-to-train-yolov8-on-a-custom-dataset/)
 - [Model Training with Ultralytics YOLO](https://docs.ultralytics.com/modes/train/)
 
-Alternatively, you can download a pre-trained YOLOv8 model for detecting four insect types (Honeybee, Syrphids, Lepidoptera, and Vespids) and strawberry flowers [here.](https://drive.google.com/drive/folders/1yklR4kOtzVzgwknWcgWC7yKiby1JMjBt?usp=sharing). This model is associated with the research article [Spatial monitoring and insect behavioural analysis using computer vision for precision pollination](https://link.springer.com/article/10.1007/s11263-022-01715-4) and the [Spatial monitoring and insect behavioural analysis dataset](https://doi.org/10.26180/21533760).
+Alternatively, you can download a pre-trained YOLOv8 model for detecting four insect types (Honeybee, Syrphids, Lepidoptera, and Vespids) and strawberry flowers [here](https://drive.google.com/drive/folders/1yklR4kOtzVzgwknWcgWC7yKiby1JMjBt?usp=sharing). This model is associated with the research article [Spatial monitoring and insect behavioural analysis using computer vision for precision pollination](https://link.springer.com/article/10.1007/s11263-022-01715-4) and the [Spatial monitoring and insect behavioural analysis dataset](https://doi.org/10.26180/21533760).
 
 ## Usage
 
