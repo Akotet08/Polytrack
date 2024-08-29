@@ -1,10 +1,1 @@
-
-sandpit
-data/output
-data/video
-data/yolov8_models
-data/tracks
-
-
-yolov8
-data/Ratnayake2023_processed/
+.idea/
